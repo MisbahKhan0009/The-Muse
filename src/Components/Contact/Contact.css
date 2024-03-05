@@ -1,0 +1,27 @@
+.parallax {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  position: relative;
+  margin-top: -90px;
+}
+
+.parallax__bg {
+  background-image: url("https://i.ibb.co/FH0Qf8G/4.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  position: absolute;
+  top: 0px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  filter: brightness(75%);
+}
+
+.parallax__content {
+  padding: 20px;
+  color: white;
+  height: 50%;
+}
