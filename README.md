@@ -2,6 +2,10 @@
 
 The Muse is a hotel management website(Frontend). In this website users can login , View room details, book rooms. It’s just the frontend of this website. Backend integraBon will be introduced later.
 
+## Live site
+
+https://the-muse-luxury-hotel.web.app/
+
 ## Tech Stack
 
 **Client:** React, Redux, TailwindCSS
@@ -37,7 +41,3 @@ Start the server
 ## Authors
 
 - [Misbah Khan](https://www.github.com/MisbahKhan0009)
-
-## Live site
-
-https://the-muse-luxury-hotel.web.app/
