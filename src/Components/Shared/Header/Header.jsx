@@ -63,9 +63,9 @@ const Header = () => {
         >
           <div className="flex flex-col gap-16 font-extralight font-BarlowCondensed lg:text-2xl  lg:me-20 mt-5 sm:flex-row sm:items-center sm:justify-end sm:mt-0 sm:ps-5">
             <Link className=" text-offWhite hover:text-gold  ">Home</Link>
-            <Link to="/#about" className=" text-offWhite hover:text-gold ">
+            {/* <Link to="/#about" className=" text-offWhite hover:text-gold ">
               About
-            </Link>
+            </Link> */}
             <Link to="/rooms" className=" text-offWhite hover:text-gold ">
               Rooms
             </Link>

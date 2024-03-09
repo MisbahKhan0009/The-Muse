@@ -20,8 +20,8 @@ const Slider = () => {
               <span className=" transition duration-700">
                 <div className="relative flex flex-col justify-center items-center">
                   <img
-                    src="https://i.ibb.co/W21DZqJ/1.jpg"
-                    alt=""
+                    src="/img/slider/1.jpg"
+                    alt="Slider Image 1"
                     className="slider-img"
                   />
                   <div className="absolute top-1/4 ">
@@ -52,11 +52,7 @@ const Slider = () => {
             <div className="flex justify-center w-full object-cover h-full bg-offWhite ">
               <span className=" transition duration-700">
                 <div className="relative flex flex-col  items-center">
-                  <img
-                    src="https://i.ibb.co/C0PfdtX/2.jpg"
-                    alt=""
-                    className="slider-img"
-                  />
+                  <img src="/img/slider/2.jpg" alt="" className="slider-img" />
                   <div className="absolute top-1/4 ">
                     <div className=" text-center  relative">
                       <p className="flex justify-center py-3 text-xl text-gold">
@@ -85,11 +81,7 @@ const Slider = () => {
             <div className="flex justify-center w-full object-cover h-full bg-offWhite ">
               <span className=" transition duration-700">
                 <div className="relative flex flex-col  items-center">
-                  <img
-                    src="https://i.ibb.co/GdvVR0L/3.jpg"
-                    alt=""
-                    className="slider-img"
-                  />
+                  <img src="/img/slider/3.jpg" alt="" className="slider-img" />
                   <div className="absolute top-1/4 ">
                     <div className=" text-center  relative">
                       <p className="flex justify-center text-xl py-3 text-gold">
@@ -118,11 +110,7 @@ const Slider = () => {
             <div className="flex justify-center w-full object-cover h-full bg-offWhite ">
               <span className=" transition duration-700">
                 <div className="relative flex flex-col  items-center">
-                  <img
-                    src="https://i.ibb.co/FH0Qf8G/4.jpg"
-                    alt=""
-                    className="slider-img"
-                  />
+                  <img src="/img/slider/4.jpg" alt="" className="slider-img" />
                   <div className="absolute top-1/4 ">
                     <div className=" text-center  relative">
                       <p className="flex justify-center py-3 text-xl text-gold">
@@ -151,11 +139,7 @@ const Slider = () => {
             <div className="flex justify-center w-full object-cover h-full bg-offWhite ">
               <span className=" transition duration-700">
                 <div className="relative flex flex-col  items-center">
-                  <img
-                    src="https://i.ibb.co/qnW0JzV/5.jpg"
-                    alt=""
-                    className="slider-img"
-                  />
+                  <img src="/img/slider/5.jpg" alt="" className="slider-img" />
                   <div className="absolute top-1/4 ">
                     <div className=" text-center  relative">
                       <p className="flex justify-center py-3 text-xl text-gold">
@@ -184,11 +168,7 @@ const Slider = () => {
             <div className="flex justify-center w-full object-cover h-full bg-offWhite ">
               <span className=" transition duration-700">
                 <div className="relative flex flex-col  items-center">
-                  <img
-                    src="https://i.ibb.co/xGW4dnT/6.jpg"
-                    alt=""
-                    className="slider-img"
-                  />
+                  <img src="/img/slider/6.jpg" alt="" className="slider-img" />
                   <div className="absolute top-1/4 ">
                     <div className=" text-center  relative">
                       <p className="flex justify-center py-3 text-xl text-gold">

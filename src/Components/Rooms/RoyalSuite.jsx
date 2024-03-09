@@ -67,7 +67,7 @@ const RoyalSuite = () => {
             </Link>
           </button>
           <button className="border border-gold bg-gold text-white text-center py-2 px-5  hover:bg-white hover:text-gold">
-          <Link to="/booking">Book</Link>
+            <Link to="/booking">Book</Link>
           </button>
         </div>
       </div>

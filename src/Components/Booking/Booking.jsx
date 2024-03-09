@@ -1,12 +1,6 @@
 import React from "react";
 import "./Booking.module.css";
 
-import {
-  PiEnvelopeThin,
-  PiPhoneCallThin,
-  PiMapPinLineThin,
-} from "react-icons/pi";
-import { Link } from "react-router-dom";
 import { DatePicker } from "antd";
 import Swal from "sweetalert2";
 
@@ -96,6 +90,3 @@ const Booking = () => {
 };
 
 export default Booking;
-
-
-
